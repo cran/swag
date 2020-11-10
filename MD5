@@ -1,0 +1,17 @@
+4719d2a0a4e105a081479ca8ad2e844a *DESCRIPTION
+b3f5e9d3b1bec08cba256c90b05fe4e8 *NAMESPACE
+905ac7e8f51fbdd1972665dad04be003 *NEWS.md
+b742c636e091fda88f434101d860d7ca *R/control.R
+0c1c1c49a16f07cac08b3af7a8a98e97 *R/predict.R
+544fdc6053d91c63c1a8f61c8f5877cc *R/swag.R
+8892c9e69bc37e483c667be4f8884951 *README.md
+24517efda6fc9f96548b734aa1e038b8 *build/partial.rdb
+a47527f0cd3c42e29d58852124f166d4 *build/vignette.rds
+7b1ede2425d57704a02159eb748f2038 *inst/REFERENCES.bib
+7cab59fd9e96c1fa703e0c1df5c66006 *inst/doc/vignettes.R
+c89302571ade7fa9c78df0bc45a2611b *inst/doc/vignettes.Rmd
+9271bc1d71d6458daad2e0c897a72c4e *inst/doc/vignettes.html
+5339d14252f12a9e2a647b2c9033201b *man/predict.swag.Rd
+11d82a39d5e29b509f21da0f8961e6c4 *man/swag.Rd
+3518e509428e90285bc0d5d81f2f9c1d *man/swagControl.Rd
+c89302571ade7fa9c78df0bc45a2611b *vignettes/vignettes.Rmd
